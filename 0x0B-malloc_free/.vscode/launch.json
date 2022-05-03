@@ -1,0 +1,26 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "C/C++ Runner: Debug Session",
+      "type": "cppdbg",
+      "request": "launch",
+      "args": [],
+      "stopAtEntry": false,
+      "cwd": "c:/Users/Tarik/Desktop/All Projects/ALX projects/ALX-Repositories/alx-low_level_programming/0x0B-malloc_free",
+      "environment": [],
+      "program": "c:/Users/Tarik/Desktop/All Projects/ALX projects/ALX-Repositories/alx-low_level_programming/0x0B-malloc_free/build/Debug/outDebug",
+      "internalConsoleOptions": "openOnSessionStart",
+      "MIMode": "gdb",
+      "miDebuggerPath": "gdb",
+      "console": "integratedTerminal",
+      "setupCommands": [
+        {
+          "description": "Enable pretty-printing for gdb",
+          "text": "-enable-pretty-printing",
+          "ignoreFailures": true
+        }
+      ]
+    }
+  ]
+}
