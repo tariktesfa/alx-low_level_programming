@@ -1,0 +1,1 @@
+#ifndef OBJECT_LIKE
